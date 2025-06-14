@@ -17,8 +17,6 @@ Uso herramientas como **n8n** para crear flujos de trabajo automáticos, scrapin
 🔸 **Integración de modelos de lenguaje**  
 Trabajo con modelos como **Ollama, Mistral y GPT-4o**, combinándolos con RAG y embeddings para tareas como generación de texto, extracción de información estructurada, asistencia a usuarios y copilotos de datos.
 
-🔸 **Sistemas con enfoque social**  
-Estoy construyendo un portal de noticias para Duitama con scraping automatizado, análisis político, transparencia en la contratación estatal y visualización de datos públicos. Todo desde cero, con control total del stack.
 
 ---
 
@@ -30,14 +28,6 @@ Estoy construyendo un portal de noticias para Duitama con scraping automatizado,
 - `Docker` / `WSL2` / `Ubuntu`
 - `GitHub Copilot` / `Claude 3.7` / `GPT-4o`
 - `Obsidian` para gestión de conocimiento
-
----
-
-## 🚀 Proyectos personales destacados
-
-- 🌐 [yieldworks.com.co](https://yieldworks.com.co): Página de presentación para empresa familiar, hecha con Next.js y desplegada con Cloudflare.
-- 📰 Noticias Duitama (en desarrollo): Portal autónomo de noticias con scraping, procesamiento de lenguaje natural y análisis político local.
-- 🤖 Copiloto para reservas turísticas: Chatbot con consultas en lenguaje natural a base de datos SQL, integración con n8n y embeddings.
 
 ---
 
@@ -59,5 +49,5 @@ Siempre estoy explorando nuevas tecnologías y metodologías para mejorar mis ha
 
 ---
 
-> “Diseñar es proyectar lo invisible. Programar, darle vida.”
+
 
